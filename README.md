@@ -2,6 +2,9 @@
 
 This repository was created as part of a project on the course **"EDA and DevTools"**. The course covered the following topics: EDA, Git and GitHub, Docker, ML fundamentals. **Online Shoppers Purchasing Intention Dataset** was chosen for the course project.
 
+## Files
+`online_shoppers_intention.csv`: data file
+
 ## Dataset description
 
 The Revenue attribute can be used as the class label.
