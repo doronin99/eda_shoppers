@@ -18,3 +18,8 @@ The `Special Day` feature indicates the closeness of the site visiting time to a
 The dataset also includes operating system, browser, region, traffic type, visitor type as returning or new visitor, weekend as a Boolean value indicating whether the date of the visit is weekend, and month of the year.
 
 [Link](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) to the description of the original dataset.
+
+## Summaries
+
+ * The distribution of target variable across the classes is skewed. So, we're dealing with model evaluating problem, cause a basic accuracy can't be the measure of the model performance.
+ * 
