@@ -4,7 +4,7 @@ This repository was created as part of a project on the course **"EDA and DevToo
 
 ## Files
 * `online_shoppers_intention.csv`: data file
-* `eda_shoppers.ipynb`: jupyter notebook with describing of EDA, preprocessing and model selection
+* `eda_shoppers.ipynb`: jupyter notebook with EDA, preprocessing and model selection
 * `dashboard.html`: Explainer Dashboard builded on KNN classifier
 
 ## Dataset description
