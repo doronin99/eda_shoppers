@@ -3,9 +3,9 @@
 This repository was created as part of a project on the course **"EDA and DevTools"**. The course covered the following topics: EDA, Git and GitHub, Docker, ML fundamentals. **Online Shoppers Purchasing Intention Dataset** was chosen for the course project.
 
 ## Files
-`online_shoppers_intention.csv`: data file
-`eda_shoppers.ipynb`: jupyter notebook with describing of EDA, preprocessing and model selection
-`dashboard.html`: Explainer Dashboard builded on KNN classifier
+* `online_shoppers_intention.csv`: data file
+* `eda_shoppers.ipynb`: jupyter notebook with describing of EDA, preprocessing and model selection
+* `dashboard.html`: Explainer Dashboard builded on KNN classifier
 
 ## Dataset description
 
