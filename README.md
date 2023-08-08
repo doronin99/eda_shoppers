@@ -4,6 +4,8 @@ This repository was created as part of a project on the course **"EDA and DevToo
 
 ## Files
 `online_shoppers_intention.csv`: data file
+`eda_shoppers.ipynb`: jupyter notebook with describing of EDA, preprocessing and model selection
+`dashboard.html`: Explainer Dashboard builded on KNN classifier
 
 ## Dataset description
 
@@ -21,5 +23,5 @@ The dataset also includes operating system, browser, region, traffic type, visit
 
 ## Summaries
 
- * The distribution of target variable across the classes is skewed. So, we're dealing with model evaluating problem, cause a basic accuracy can't be the measure of the model performance.
+ * The distribution of target variable across the classes is skewed. So, we're dealing with model evaluating problem and a basic accuracy can't be the measure of the model performance.
  * 
