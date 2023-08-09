@@ -27,4 +27,4 @@ The dataset also includes operating system, browser, region, traffic type, visit
  * On numerical data *NB classifier* looks preferably due to higher balanced accuracy, but, on the other hand, *KNN classifier* has higher weighted F1 score.
  * Putting the categorical features into *KNN classifier* didn't give a better model performance.
  * If we need to estimate all features importances we should use *Logistic Regression* instead of *KNN classifier*, cause it have better metrics results.
- * With using of SHAP values we can see that one of the most influencing features in *LR model* are `PageValues` and `ExitRates`
+ * With using of SHAP values we can see that one of the most influencing features in *LR model* are `PageValues` and `ExitRates`.
