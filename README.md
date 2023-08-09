@@ -5,7 +5,7 @@ This repository was created as part of a project on the course **"EDA and DevToo
 ## Files
 * `online_shoppers_intention.csv`: data file
 * `eda_shoppers.ipynb`: jupyter notebook with EDA, preprocessing and model selection
-* `dashboard.html`: Explainer Dashboard builded on KNN classifier
+* `dashboard.html`: Explainer Dashboard saved as HTML file
 
 ## Dataset description
 
@@ -24,5 +24,7 @@ The dataset also includes operating system, browser, region, traffic type, visit
 ## Summaries
 
  * The distribution of target variable across the classes is skewed. So, we're dealing with model evaluating problem as we can't use the accuracy as a measure of the model performance.
- * On numerical data NB classifier looks preferably due to higher balanced accuracy, but, on the other hand, KNN classifier has higher weighted F1 score.
- * Putting the categorical features into KNN classifier didn't give a better model performance.
+ * On numerical data *NB classifier* looks preferably due to higher balanced accuracy, but, on the other hand, *KNN classifier* has higher weighted F1 score.
+ * Putting the categorical features into *KNN classifier* didn't give a better model performance.
+ * If we need to estimate all features importances we should use *Logistic Regression* instead of *KNN classifier*, cause it have better metrics results.
+ * With using of SHAP values we can see that one of the most influencing features in *LR model* are `PageValues` and `ExitRates`
