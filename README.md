@@ -6,6 +6,7 @@ This repository was created as part of a project on the course **"EDA and DevToo
 * `online_shoppers_intention.csv`: data file
 * `eda_shoppers.ipynb`: jupyter notebook with EDA, preprocessing and model selection
 * `dashboard.html`: Explainer Dashboard saved as HTML file
+* 'app': folder with an app starting Explainer Dashboard
 
 ## Dataset description
 
