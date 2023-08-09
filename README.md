@@ -25,4 +25,4 @@ The dataset also includes operating system, browser, region, traffic type, visit
 
  * The distribution of target variable across the classes is skewed. So, we're dealing with model evaluating problem and a basic accuracy can't be the measure of the model performance.
  * On numerical data NB classifier looks preferably due to higher balanced accuracy, but, on the other hand, KNN classifier has higher weighted F1 score.
- * Addition of categorical features into KNN classifier didn't give a better model performance.
+ * Putting the categorical features into KNN classifier didn't give a better model performance.
